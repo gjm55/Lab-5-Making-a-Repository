@@ -1,2 +1,2 @@
 # Lab-5-Making-a-Repository
-This includes the Lab 5 Exercises.
+The "nameinput" is a program that asks the user for their name and age. Then it will tell the user if they are older, younger, or the same age as me. The contributers include Gabrielle Martin, (gjm55@pitt.edu)
