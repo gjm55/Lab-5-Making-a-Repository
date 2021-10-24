@@ -1,1 +1,3 @@
 We chose the Unlicense for our program, because we want people to have as much access to this project as they want. The Unlicense allows users to have as much creative freedom as they want to change this program.
+
+We chose the Contributers Covenenant because it is a widely used and highly regarded code of conduct for open source projects. It protects many different groups from harrasment and we found it to be the best fit for our values.
